@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+    color: black ;
+}
+
+/*LINHA */
+hr#linha {
+    margin-top: -10px;
+}
+
+/*Formatação de imagens*/
+
+img#logo {
+    position: absolute;
+    left: 200px;
+    top: 30px;
+}
+
+img#capa {
+    position: relative;
+    left: 200px;
+    top: 86px;
+}
+
+/* MENU DE NAVEGAÇÃO */
+
+nav.menu {
+    display: block;
+}
+
+nav.menu ul {
+    list-style: none;
+    position: absolute;
+    top: 20px;
+    left: 820px;
+}
+
+nav.menu li {
+    display: inline-block;
+    padding: 10px;
+    color: black;
+}
+
+/*texto*/
+
+hgroup#sobre {
+    margin-top: 100px;
+    margin-right:225px;
+    margin-left: 200px;
+    text-align: justify;    
+}
+
+h4 {
+    text-align: center;
+    color: black;
+}
